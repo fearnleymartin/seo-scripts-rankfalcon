@@ -6,3 +6,5 @@ This scripts contains automation for merging keywords files from keyword planner
 It deals with duplicates and takes into account metrics such as CPC, CTR, search volume and competition.
 It also defines two keyword metrics , quality and potential for improvement, to help you select good keywords.
 Finally you can easily generate a csv file of all your keywords that you can easily import into www.rankfalcon.com ranking tracking tool.
+
+Find out more at http://www.rankfalcon.com/blog/page/2/streamlining-your-keyword-research---how-to-build-an-seo-campaign-and-automate-the-boring-steps/
